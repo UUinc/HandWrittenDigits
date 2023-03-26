@@ -1,6 +1,6 @@
 # Hand Written Digits (Machine Learning) 🦾🧠
 
-An application that build and train a nueral network model - MultiLayer Perceptron Classifier.
+A neural network model to predict hand written digits - MultiLayer Perceptron Classifier.
 
 Technologies used: Python and scikit-learn
 
